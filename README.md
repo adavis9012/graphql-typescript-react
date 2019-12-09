@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Medium Tutorial
+[Build a GraphQL + React App with TypeScript](https://levelup.gitconnected.com/build-a-graphql-react-app-with-typescript-9661f908b26)
+
 ## Available Scripts
 
 In the project directory, you can run:
